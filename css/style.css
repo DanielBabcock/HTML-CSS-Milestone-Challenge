@@ -1,0 +1,49 @@
+body {
+    margin: auto;
+    width: 100%;
+    border: 2px solid #FFBA19;
+    padding: 10px;
+    background-color: #C400FF;
+
+}
+
+main {
+    body {
+    margin: auto;
+    width: 95%;
+    border: 3px solid #14CC84;
+    padding: 10px;
+    text-align: center;
+
+}
+}
+
+p {
+    text-align: left;
+}
+
+.wrapper {
+    font-family: 
+}
+
+header {
+    font-size: 1.3em;
+}
+
+
+
+
+
+img.hero {
+    width: 60%;
+}
+
+
+footer {
+    display: center;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+   
+}
+
